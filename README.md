@@ -26,7 +26,6 @@ Git bash-
 $git clone https://github.com/krishkatyal/LendingClub.git
 ```
 To create requirement-
-```
 
 ```
 pip install -r requirements.txt
