@@ -19,3 +19,16 @@ We will use lending data from 2007-2010 and be trying to classify and predict wh
 - inq.last.6mths: The borrower's number of inquiries by creditors in the last 6 months.
 - delinq.2yrs: The number of times the borrower had been 30+ days past due on a payment in the past 2 years.
 - pub.rec: The borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments).
+
+To use reprository-
+Git bash-
+```
+$git clone https://github.com/krishkatyal/LendingClub.git
+```
+To create requirement-
+```
+
+```
+pip install -r requirements.txt
+```
+
